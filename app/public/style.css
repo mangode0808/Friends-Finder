@@ -1,0 +1,32 @@
+body{
+    background-image: url("./friends.png");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.jumbotron {
+    background-color: rgb(177, 114, 31);
+    color: white;
+    opacity: .75;
+    margin-top: 20px;
+}
+
+#submit {
+    background:rgb(177, 114, 31);
+}
+
+#jumbo_h2 {
+    color: white;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #ffd000;
+    border-color: #ff7300;
+}
+
+.panel-title {
+    color: rgb(177, 114, 31);
+}
